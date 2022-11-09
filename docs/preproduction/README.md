@@ -122,7 +122,12 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [Arduino]
+* Arduino
+* Blender
+* Davinci
+* Visual studio code
+* OBS
+
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
