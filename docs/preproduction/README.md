@@ -30,7 +30,7 @@
 ## Cartographie
 > Exemples:
 <div class="sketchfab-embed-wrapper"> <iframe title="Untitled_Scan_15_40_44" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/84e5295ddfdc40d9a3f9f7b27943074d/embed?autostart=1&camera=0&ui_theme=dark"> </iframe>
-(medias/michael1.png)
+![Budget prévisionnel](medias/michael1.png)
 ## Intention de départ
 Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement.
 
