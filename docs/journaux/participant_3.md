@@ -1,5 +1,5 @@
 # Journal de "Michaël simard"
-![portrait du participant ](../web/medias/participants/C.png)
+![portrait du participant ](../web/medias/CEB03D1D-BD2B-4173-9C4A-29439835B3CF.jpeg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
