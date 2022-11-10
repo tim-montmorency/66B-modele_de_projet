@@ -32,7 +32,7 @@
 
 ![Cartographie](medias/michael1.png)
 
-[![plan 3D](medias/michael1.png)](https://skfb.ly/ozZvD) 
+[![plan 3D](medias/scan.png)](https://skfb.ly/ozZvD) 
     
 ## Intention de départ
 Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement.
