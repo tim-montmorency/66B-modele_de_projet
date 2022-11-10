@@ -29,10 +29,7 @@
 # Intention ou concept
 ## Cartographie
 > Exemples:
-
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+<div class="sketchfab-embed-wrapper"> <iframe title="Untitled_Scan_15_40_44" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/84e5295ddfdc40d9a3f9f7b27943074d/embed?autostart=1&camera=0&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/untitled-scan-15-40-44-84e5295ddfdc40d9a3f9f7b27943074d?utm_medium=embed&utm_campaign=share-popup&utm_content=84e5295ddfdc40d9a3f9f7b27943074d" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Untitled_Scan_15_40_44 </a> by <a href="https://sketchfab.com/mick.simard?utm_medium=embed&utm_campaign=share-popup&utm_content=84e5295ddfdc40d9a3f9f7b27943074d" target="_blank" style="font-weight: bold; color: #1CAAD9;"> mick.simard </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=84e5295ddfdc40d9a3f9f7b27943074d" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 ## Intention de départ
 Par ce projet, nous souhaitons démontrer l'importance pour l'humain de rester connecté à la nature à cause de l'urgence climatique que nous vivons actuellement.
