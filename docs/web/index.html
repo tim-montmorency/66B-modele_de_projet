@@ -42,18 +42,18 @@
 			<img src="medias/banniere_page_projet.jpg" id="videoPlaceholderImg" style="width: 100%; height: auto; display: block; position: absolute; top: 0; left: 0; z-index: 2;">
 		
 			<!-- Element vidéo de la banière qui substitue l'image -->
-			<video id="lazyVideo" preload="none" style="width: 100%; height: auto; position: relative; z-index: 1;" playsinline loop muted autoplay>
+			<video id="monVideo" preload="none" style="width: 100%; height: auto; position: relative; z-index: 1;" playsinline loop muted autoplay>
 				<source data-src="medias/banniere_1200x360-5sec.mp4" type="video/mp4">
 			</video>
 		</section>
 		
 		<script>
 		document.addEventListener("DOMContentLoaded", function() {
-		  var lazyVideo = document.querySelector("#lazyVideo");
+		  var monVideo = document.querySelector("#monVideo");
 		  var placeholderImage = document.getElementById('videoPlaceholderImg');
 		
 		  if ("IntersectionObserver" in window) {
-			var lazyVideoObserver = new IntersectionObserver(function(entries, observer) {
+			var monVideoObserver = new IntersectionObserver(function(entries, observer) {
 			  entries.forEach(function(entry) {
 				if (entry.isIntersecting) {
 				  for (var source in entry.target.children) {
@@ -69,18 +69,18 @@
 				  }).catch(e => {
 					  console.log('Autoplay failed:', e);
 				  });
-				  lazyVideoObserver.unobserve(entry.target); // Stop observing the video once it starts playing
+				  monVideoObserver.unobserve(entry.target); // Stop observing the video once it starts playing
 				}
 			  });
 			});
 		
-			lazyVideoObserver.observe(lazyVideo);
+			monVideoObserver.observe(monVideo);
 		  } else {
 			// Fallback for browsers without Intersection Observer support
-			var videoSource = lazyVideo.querySelector("source");
+			var videoSource = monVideo.querySelector("source");
 			videoSource.src = videoSource.dataset.src;
-			lazyVideo.load();
-			lazyVideo.play().then(() => {
+			monVideo.load();
+			monVideo.play().then(() => {
 				placeholderImage.style.display = 'none'; // Hide the placeholder image once the video starts playing
 			}).catch(e => {
 				console.log('Autoplay failed:', e);
@@ -153,7 +153,7 @@
 		</section>
 	</main>
 	<footer>
-		© <a href="https://www.cmontmorency.qc.ca" target="_blank">Collège Montmorency</a> | <a href="https://tim-montmorency.com/" target="_blank">TIM Montmorency 2022</a> 
+		<a href="https://tim-montmorency.com/" target="_blank">TIM Montmorency 2024</a> 
 	</footer>
 </body>
 
